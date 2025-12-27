@@ -1,91 +1,77 @@
-# 👋 Hi, I'm Chiranth Chiplunkar 🚀
+# 👋 Hi, I'm Chiranth
 
-💻 Full Stack Developer | Software Engineer at Deloitte  
+⚙️ Backend-leaning Full Stack Engineer  
+🧩 I build scalable systems and clean APIs  
 📍 India  
-🔗 [LinkedIn](https://linkedin.com/in/chiranth-h-chiplunkar)
+🔗 LinkedIn: https://linkedin.com/in/chiranth-h-chiplunkar  
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a **Full Stack Developer** with experience building **scalable, production-ready web applications** using **React ⚛️, Node.js 🟢, TypeScript 🔷, and PostgreSQL 🐘**.  
-Currently, I work as a **Software Engineer at Deloitte**, where I develop **client-facing systems** with a strong focus on **performance ⚡, reliability 🛡️, and clean architecture 🧱**.
+I’m a **full stack software engineer** who enjoys building **reliable backend systems**
+and **well-structured frontend applications**.
 
-I enjoy working on **backend systems ⚙️**, **API design 🔌**, and **developer-focused tooling 🧰**, and I’m especially interested in building products that **scale well 📈** and are **intuitive to use ✨**.
+I primarily work with **Go 🦫, Python 🐍, Node.js 🟢, PostgreSQL 🐘, and React ⚛️**.
+I like designing APIs, working with concurrency, optimizing performance, and writing
+code that is easy to test and maintain.
 
----
-
-## 💼 Experience
-
-### **Software Engineer — Deloitte** 🏢
-*June 2024 – Present | Bengaluru, India 🇮🇳*
-
-- ⚡ Optimized RESTful APIs and backend services using **Node.js** and **PostgreSQL**, improving performance and scalability by **20%**
-- 🧪 Improved code reliability by **90%** through **test-driven development** with **Jest** and **Supertest**, achieving **90%+ unit test coverage**
-- 🎨 Built reusable **React + TypeScript** components, improving UI consistency and reducing feature delivery time by **15%**
-- 🤝 Collaborated closely with product managers and designers in an **Agile** environment, reducing sprint turnaround time by **10%**
-- 🔗 Integrated internal systems with the **Jira API**
+Most of my projects focus on **backend engineering ⚙️**, **distributed systems 🌐**,
+and **scalable application design 📈**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚧 Featured Projects
+
+### 🔗 Distributed URL Shortener
+
+A backend-focused URL shortening service designed with scalability and concurrency in mind.
+
+- 🔌 Designed REST APIs for URL creation and redirection
+- 🔢 Implemented Base62 encoding with collision handling and persistent storage
+- 🚀 Added Redis caching to reduce database lookups and improve redirect latency
+- 🧵 Handled concurrent requests safely using goroutines and atomic operations
+
+**Tech:** Go, PostgreSQL, Redis
+
+---
+
+### 📄 AI-Powered Document Search System
+
+A semantic document search system for querying large text documents efficiently.
+
+- 🧠 Built an embedding-based search system using semantic similarity
+- 🗂️ Designed ingestion and query pipelines for vector storage and retrieval
+- ⚡ Optimized query latency using caching and limited search scope
+
+**Tech:** Python, FastAPI, SentenceTransformer, PostgreSQL
+
+---
+
+## 🛠️ Tech I Work With
 
 🧠 **Languages**  
-JavaScript (ES6+), TypeScript, Python, Java, Go, SQL  
-
-🎨 **Frontend**  
-React, Next.js, Redux Toolkit, Tailwind CSS, Material UI  
+JavaScript (ES6+), TypeScript, Python, Go, Java, SQL  
 
 🔧 **Backend**  
-Node.js, Express.js, FastAPI, Pydantic, Spring Boot (familiar), Hono.js  
+Go (net/http), Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis  
 
-🗄️ **Databases**  
-PostgreSQL, MongoDB  
+🎨 **Frontend**  
+React, Next.js, Redux Toolkit, Tailwind CSS  
 
-🧪 **Testing & Tools**  
+🧪 **Testing and Tooling**  
 Jest, Supertest, Git, Postman  
 
-⚙️ **Other**  
-RESTful API Design, Unit Testing, Agile Development, Jira API Integration
+---
+
+## 🎯 What I’m Interested In
+
+- ⚙️ Backend and platform engineering  
+- 🌐 Distributed systems and concurrency  
+- 📊 System design and performance optimization  
+- 🧪 Writing testable, maintainable code  
 
 ---
 
-## 🚧 Projects
-
-### 🌐 **Kozmogram**
-A full-stack social media application with authentication, posts, likes, and comments.  
-🚀 Improved API response times by **30%** through optimized MongoDB indexing.
-
-**Tech:** Next.js, Redux Toolkit, Material UI, Express.js, MongoDB
-
----
-
-### 🤖 **ShrinkRay-Sumz**
-An AI-powered article summarizer using **OpenAI GPT-4**, reducing reading time by **60%**.
-
-**Tech:** Next.js, Redux Toolkit, RTK Query, Tailwind CSS, OpenAI API
-
----
-
-### 📄 **DocTalk**
-An AI assistant that enables natural language interaction with uploaded PDFs for contextual search and summarization.
-
-**Tech:** Python, Streamlit, Hugging Face, SentenceTransformer, LaMini-LLM
-
----
-
-## 🎓 Education
-
-🎓 **B.E. in Computer Science & Engineering (AI/ML)**  
-Sahyadri College of Engineering & Management, Mangalore  
-*2020 – 2024*
-
----
-
-## 📫 Get in Touch
-
-🔗 LinkedIn: [linkedin.com/in/chiranth-h-chiplunkar](https://linkedin.com/in/chiranth-h-chiplunkar)  
-
----
-
-⭐️ **Always curious 🧠, always learning 📚, and always building 🛠️.**
+✨ I enjoy learning how systems work under the hood and building software that scales
+without becoming hard to reason about.
